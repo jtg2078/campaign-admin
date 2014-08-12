@@ -4,7 +4,7 @@
 
 ## Demo
 
-see here
+see [here](http://jtg2078.github.io/campaign-admin/)
 
 ## Setup
 
